@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "caption": "Bootstrap",
+      "icon": "/skills/1.png"
+    },
+    {
+      "id": 2,
+      "caption": "CSS3",
+      "icon": "/skills/2.png"
+    },
+    {
+      "id": 3,
+      "caption": "ReactJS",
+      "icon": "/skills/3.png"
+    },
+    {
+      "id": 4,
+      "caption": "Git VCS",
+      "icon": "/skills/4.png"
+    },
+    {
+      "id": 5,
+      "caption": "HTML5",
+      "icon": "/skills/5.png"
+    },
+    {
+      "id": 6,
+      "caption": "JavaScript",
+      "icon": "/skills/6.png"
+    },
+    {
+      "id": 7,
+      "caption": "JQuery",
+      "icon": "/skills/7.png"
+    },
+    {
+      "id": 8,
+      "caption": "MaterialUI",
+      "icon": "/skills/8.png"
+    },
+    {
+      "id": 9,
+      "caption": "NodeJS",
+      "icon": "/skills/9.png"
+    },
+    {
+      "id": 10,
+      "caption": "WordPress",
+      "icon": "/skills/10.png"
+    }
+  ]
+  

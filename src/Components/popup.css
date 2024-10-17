@@ -1,0 +1,19 @@
+.popup-content {
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 8px;
+    max-width: 90%;
+    width: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .popup-overlay {
+    background: rgba(0, 0, 0, 0.6);
+  }
+  
+  .popup-img {
+    max-width: 100%;
+    max-height: 80vh;
+  }
+.close-button{position:absolute; right: 0; width: 40px; height: 40px; color: #fff; background: #442a6e; border-radius: 50%; 
+  border: none; font-size: 30px; line-height: 0; outline: none;}  
