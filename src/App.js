@@ -45,6 +45,7 @@ function App() {
 <Contact />
 </BrowserRouter>
 <Footer />
+
     </div>
   );
 }
