@@ -36,7 +36,7 @@ function App() {
   }}
 />}
      
-       <BrowserRouter>
+<BrowserRouter>
       <Navbar />
 <Home />
 <About />
