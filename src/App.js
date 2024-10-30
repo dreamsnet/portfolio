@@ -36,14 +36,14 @@ function App() {
   }}
 />}
      
-<BrowserRouter>
+<Hashrouter>
       <Navbar />
 <Home />
 <About />
 <Work />
 <Experience />
 <Contact />
-</BrowserRouter>
+</Hashrouter>
 <Footer />
 
     </div>
