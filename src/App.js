@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 import Home from './Pages/Home';
 import About from './Pages/About';
 import Experience from './Pages/Experience';
@@ -36,14 +36,14 @@ function App() {
   }}
 />}
      
-<Hashrouter>
+<HashRouter>
       <Navbar />
 <Home />
 <About />
 <Work />
 <Experience />
 <Contact />
-</Hashrouter>
+</HashRouter>
 <Footer />
 
     </div>
